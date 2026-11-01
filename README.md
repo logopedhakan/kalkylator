@@ -12,6 +12,10 @@ roten ur, upphöjt till), så att den kan anpassas efter den som räknar.
 - Allt ligger i en enda fil, [index.html](index.html). Den hämtar inget från internet,
   och inställningar och historik sparas bara i den egna webbläsaren.
 
+## Licens
+
+© 2026 John Säbom · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — se [LICENSE](LICENSE).
+
 ## Publicera en ändring
 
 Ändra `index.html`, gör en commit och tryck **Push origin** i GitHub Desktop.
